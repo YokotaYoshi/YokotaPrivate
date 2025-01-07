@@ -1,3 +1,4 @@
-Project2ProtoTypeは実験用で、後日dengameに移動予定です。
-WebMakingPracticeは『1冊で全て身につくHTML & CSSとWebデザイン入門講座[第2版]』の内容です。
+こちらのリポジトリには準備段階のものが収納されています。
+Project2ProtoTypeは次の企画用に用意したものです。
+WebMakingPracticeはMana氏著『1冊で全て身につくHTML & CSSとWebデザイン入門講座[第2版]』の内容です。
 Websiteには制作したゲームを紹介するためのWebサイトを作る予定です。
