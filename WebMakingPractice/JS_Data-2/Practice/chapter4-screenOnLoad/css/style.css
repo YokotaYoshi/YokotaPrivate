@@ -1,8 +1,8 @@
-@charset "UtF-8";
+
 
 /*ロード*/
 #loading{
-    transition: all 3s;
+    transition: all 1s;
     background-color: #ddd;
     position: fixed;
     z-index: 9999;
